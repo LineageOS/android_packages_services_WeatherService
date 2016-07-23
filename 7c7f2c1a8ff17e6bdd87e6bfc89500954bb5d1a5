@@ -22,6 +22,30 @@
       "revId": "7c7f2c1a8ff17e6bdd87e6bfc89500954bb5d1a5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_f0f7b7f4",
+        "filename": "src/org/cyanogenmod/weatherservice/WeatherManagerService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 262,
+      "author": {
+        "id": 14421
+      },
+      "writtenOn": "2016-07-23T19:17:05Z",
+      "side": 1,
+      "message": "o_O totally missed those, will fix it",
+      "parentUuid": "3fa7e38b_3089cf74",
+      "range": {
+        "startLine": 245,
+        "startChar": 0,
+        "endLine": 262,
+        "endChar": 109
+      },
+      "revId": "7c7f2c1a8ff17e6bdd87e6bfc89500954bb5d1a5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
