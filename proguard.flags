@@ -20,3 +20,6 @@
 
 -dontwarn cyanogenmod.**
 -keep class cyanogenmod.app.** { *; }
+
+# Disable a specific optimization that trigger the proguard bug
+-optimizations !code/allocation/variable
